@@ -1,0 +1,7 @@
+{
+    "name": "Artemis Blog",
+    "integrations": {
+        "cordova": {}
+    },
+    "type": "angular"
+}
